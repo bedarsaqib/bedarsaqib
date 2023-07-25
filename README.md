@@ -1,5 +1,7 @@
+[!MasterHead](url)](bedarsaqib.io)
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
+<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnurag8305%2FAnurag8305&psig=AOvVaw3kAJ9x3kkueFKDWAE5RlgV&ust=1690411994543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD14dD5qoADFQAAAAAdAAAAABAD">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedarsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="bedarsaqib" /> </p>
 
