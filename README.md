@@ -1,4 +1,4 @@
-[!MasterHead](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/3ec344d0-d7c4-4052-980b-76e3cdd1b9ed)(bedarsaqib.io)
+![banner](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/3ec344d0-d7c4-4052-980b-76e3cdd1b9ed)
 
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
