@@ -1,7 +1,7 @@
 [!MasterHead](url)](bedarsaqib.io)
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="left" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnurag8305%2FAnurag8305&psig=AOvVaw3kAJ9x3kkueFKDWAE5RlgV&ust=1690411994543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD14dD5qoADFQAAAAAdAAAAABAD"/>
+<img align="left" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FAnurag8305%2FAnurag8305&psig=AOvVaw3kAJ9x3kkueFKDWAE5RlgV&ust=1690411994543000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLD14dD5qoADFQAAAAAdAAAAABAD](https://camo.githubusercontent.com/424b91a7dbc23f136766f18467c1c4897f5f50e7123b35e36c9cd5bf05b4465e/68747470733a2f2f676c6f62616c656475636174696f6e2e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f676c6f62616c6564752f6769662f66726f6e742d656e642d646576656c6f706d656e742e676966)"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedarsaqib&label=Profile%20views&color=0e75b6&style=flat" alt="bedarsaqib" /> </p>
 
