@@ -1,9 +1,8 @@
-![banner](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/3ec344d0-d7c4-4052-980b-76e3cdd1b9ed)
+![image](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/b8027c65-49c6-411a-aa8b-7a6e988ca661)
 
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/bedarsaqib/bedarsaqib/assets/124094939/15ae456d-9508-4597-bc15-26fe0992aa05"/>
-
 
 - 🔭 I’m currently working on **Frontend development**
 
