@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="coding" width="400" src="https://github.com/bedarsaqib/bedarsaqib/assets/124094939/4a424195-ac16-478c-9a1d-58116bbb0d78" />
-
+<img align="right" alt="coding" width="400" src="https://github.com/bedarsaqib/bedarsaqib/assets/124094939/6273a422-6242-47de-b211-12da434af0b6" /><br>
 - 🔭 I’m currently working on **Frontend development**
 
 - 🌱 I’m currently learning **JavaScript**
