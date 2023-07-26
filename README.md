@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Saqib Bedar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/bedarsaqib/bedarsaqib/assets/124094939/4b0b566c-f32c-4645-a219-593e19f7b30f"/>
-<h3></h3>
 
 - 🔭 I’m currently working on **Frontend development**
 
