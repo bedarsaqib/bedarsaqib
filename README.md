@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **chandio.saqib.m@gamil.com**
+- 📫 How to reach me **Saqibbedar@techyfly.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
