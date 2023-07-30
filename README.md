@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 📝 I regularly write articles on [www.techyfly.in](www.techyfly.in)
+- 📝 I regularly write articles on <a href="https://www.techyfly.in">Website</a>
 
 - 💬 Ask me about **MERN**
 
