@@ -1,7 +1,7 @@
 ![image](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/b8027c65-49c6-411a-aa8b-7a6e988ca661)
 
 <h1 align="center">Welcome to my GitHub!</h1>
-<h3 align="center">I'm Saqib Bedar, passionate developer from Pakistan. Currently, I'm working as a student in Pakistan.</h3>
+<h3 align="center">I'm Saqib Bedar, a passionate developer from Pakistan. Currently, I'm working as a student in Pakistan.</h3>
 <h3 align="center">Visit my <a href="https://www.techyfly.in/p/authors-saqib-bedar.html">Portfolio. </a></h3>
 <img align="right" alt="coding" width="400" src="https://github.com/bedarsaqib/bedarsaqib/assets/124094939/4b0b566c-f32c-4645-a219-593e19f7b30f"/>
 
