@@ -17,9 +17,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bedarsaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedarsaqib" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bedarsaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedarsaqib" height="30" width="40" /></a>
-<a href="https://instagram.com/bedarsaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedarsaqib" height="30" width="40" /></a>
+<a href="https://twitter.com/saqibbedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bedarsaqib" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saqibbedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedarsaqib" height="30" width="40" /></a>
+<a href="https://instagram.com/saqibbedar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bedarsaqib" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/bedarsaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bedarsaqib" height="30" width="40" /></a>
 </p>
 
