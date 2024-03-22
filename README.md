@@ -42,4 +42,4 @@ For more visit my **[Portfolio](https://saqibbedar.github.io/Portfolio/)**
 </p>
 
 <br>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibbedar&show_icons=true&locale=en&layout=compact" alt="Saqib bedar" /></p>
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=saqibbedar&show_icons=true&locale=en&layout=compact" alt="Saqib bedar" /></p>
