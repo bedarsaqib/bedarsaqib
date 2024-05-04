@@ -2,7 +2,7 @@
 
 ![image](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/b8027c65-49c6-411a-aa8b-7a6e988ca661)
 
-<p>[](https://komarev.com/ghpvc/?username=saqibbedar) </p>
+<p> ![](https://komarev.com/ghpvc/?username=saqibbedar) </p>
 
 ## Welcome to my GitHub
 
