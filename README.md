@@ -2,9 +2,12 @@
 
 ![image](https://github.com/bedarsaqib/bedarsaqib/assets/124094939/b8027c65-49c6-411a-aa8b-7a6e988ca661)
 
-<div align="center">
+<p align="center">
+  
 ![](https://komarev.com/ghpvc/?username=saqibbedar)
-</div>
+
+</p>
+
 ## Welcome to my GitHub
 
 I'm Saqib Bedar, a passionate self-taught Developer from Pakistan, currently, pursuing bachelors in computer science at Quad-i-Azam University, Islamabad. My journey towards I.T has been an exciting one, and as a passionate developer I'm constantly exploring new horizons. Due to this keen interest, I've been certified from various reputable platforms i.e. **[Meta](https://www.coursera.org/account/accomplishments/verify/HNBS292LZU6Y?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=I+android)**, **[FreeCodeCamp](https://www.freecodecamp.org/certification/bedarsaqib/responsive-web-design)** and many others.
