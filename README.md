@@ -8,7 +8,7 @@
 
 </p>
 
-### Hi, I'm Saqib Bedar 👋 
+# Hi, I'm Saqib Bedar 👋 
 Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer skilled in MongoDB, Express, React, and Node.js, with a focus on building scalable, performance-driven web applications. I also have experience working with Tailwind CSS for modern, responsive designs.
