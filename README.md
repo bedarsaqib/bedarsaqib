@@ -8,12 +8,18 @@
 
 </p>
 
-## Welcome to my GitHub
+### Hi, I'm Saqib Bedar 👋 
+Full Stack Developer | MERN Stack Enthusiast | Open Source Contributor
 
-I'm Saqib Bedar, a passionate self-taught Developer from Pakistan, currently, pursuing bachelors in computer science at Quad-i-Azam University, Islamabad. My journey towards I.T has been an exciting one, and as a passionate developer I'm constantly exploring new horizons. Due to this keen interest, I've been certified from various reputable platforms i.e. **[Meta](https://www.coursera.org/account/accomplishments/verify/HNBS292LZU6Y?utm_campaign=sharing_cta&utm_content=cert_image&utm_medium=certificate&utm_product=course&utm_source=I+android)**, **[FreeCodeCamp](https://www.freecodecamp.org/certification/bedarsaqib/responsive-web-design)** and many others.
+Welcome to my GitHub! I'm a passionate Full Stack Developer skilled in MongoDB, Express, React, and Node.js, with a focus on building scalable, performance-driven web applications. I also have experience working with Tailwind CSS for modern, responsive designs.
 
+Here, you'll find:
 
-For more visit my **[Portfolio](https://saqibbedar.github.io/Portfolio/)**
+- Full Stack Projects showcasing my expertise in both frontend and backend development.
+- Open Source Contributions where I collaborate and share my knowledge with the community.
+- Code Snippets & Utilities that reflect my learning, experimentation, and passion for coding.
+  
+I'm always looking to learn, improve, and contribute to exciting projects. Feel free to explore and connect!
 
 ## Skills
 <p align="center">
